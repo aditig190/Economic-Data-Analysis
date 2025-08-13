@@ -57,21 +57,20 @@ The dataset contains **34,867** sales transactions with:
 
 ## **Key Graphs & Visuals**
 
-
 ### **1. Monthly Revenue Trend**
-![Monthly Revenue](/Montly Revenu.png)
+![Monthly Revenue](Montly_Revenu.png)
 
 ### **2. Top Product Categories**
-![Top Products](images/top_products.png)
+![Top Products](top_products.png)
 
 ### **3. Top Revenue-Generating States**
-![Top States](images/top_states.png)
+![Top States](top_states.png)
 
 ### **4. Customer Age Distribution**
-![Customer Age](images/customer_age_distribution.png)
+![Customer Age](customer_age_distribution.png)
 
 ### **5. Revenue Forecast (ARIMA)**
-![Revenue Forecast](images/revenue_forecast.png)
+![Revenue Forecast](revenue_forecast.png)
 
 ---
 
@@ -87,4 +86,16 @@ The dataset contains **34,867** sales transactions with:
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn  
 - **Tools:** Jupyter Notebook, Excel (for initial exploration)  
+
+---
+
+## **Conclusion**
+This project demonstrates how raw sales data can be transformed into actionable insights and future predictions.  
+The analysis helped in identifying:
+- **Top-performing products**
+- **High-revenue regions**
+- **Customer segments contributing most to sales**
+- **Expected sales growth in upcoming months**
+
+
 
