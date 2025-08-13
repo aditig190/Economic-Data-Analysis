@@ -58,7 +58,7 @@ The dataset contains **34,867** sales transactions with:
 ## **Key Graphs & Visuals**
 
 ### **1. Monthly Revenue Trend**
-![Monthly Revenue](Montly_Revenu.png)
+![Monthly Revenue](Montly%20Revenu.png)
 
 ### **2. Top Product Categories**
 ![Top Products](top_products.png)
