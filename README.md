@@ -59,7 +59,7 @@ The dataset contains **34,867** sales transactions with:
 > Save all your notebook charts in a folder called `/images` and link them here.
 
 ### **1. Monthly Revenue Trend**
-![Monthly Revenue](images/monthly_revenue_trend.png)
+![Monthly Revenue](/Monthly_Revenue.png)
 
 ### **2. Top Product Categories**
 ![Top Products](images/top_products.png)
