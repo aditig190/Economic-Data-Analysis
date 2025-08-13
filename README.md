@@ -58,19 +58,16 @@ The dataset contains **34,867** sales transactions with:
 ## **Key Graphs & Visuals**
 
 ### **1. Monthly Revenue Trend**
-![Monthly Revenue](Montly%20Revenu.png)
+![Monthly Revenue](Monthly_Revenue_Trend.png)
 
 ### **2. Top Product Categories**
-![Top Products](top_products.png)
+![Top Products](Top_Product.png)
 
-### **3. Top Revenue-Generating States**
-![Top States](top_states.png)
+### **3. Customer Age Distribution**
+![Customer Age](customer_age.png)
 
-### **4. Customer Age Distribution**
-![Customer Age](customer_age_distribution.png)
-
-### **5. Revenue Forecast (ARIMA)**
-![Revenue Forecast](revenue_forecast.png)
+### **4. Revenue Forecast (ARIMA)**
+![Revenue Forecast](Revenu_Forcast_ARIMA.png)
 
 ---
 
